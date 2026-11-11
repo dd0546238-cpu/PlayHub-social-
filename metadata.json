@@ -1,0 +1,6 @@
+{
+  "name": "RiderSocial",
+  "description": "Social media and bike racing platform to share photos and videos, race bikes to earn coins, send gifts, recharge, and withdraw earnings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
